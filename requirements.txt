@@ -1,0 +1,4 @@
+pyqt==5.9.2
+numpy==1.16.2
+matplotlib==2.2.3
+pyaudio==0.2.11
